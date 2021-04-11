@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="de">
+ <head>
+   <title>HannahsHTML </title>
+   <body bgcolor="#ADD8E6">
+ </head>
+ <body>
+   <header>
+     <h1>
+     <center>  <font color="#E41A38" >HANNAH </font> </center>
+     </h1>
+     <hr />
+     <nav>
+       <a href="index.html">Startseite</a>
+       <a href= "" >Hobbys</a>
+       <a href="" >Bücher</a>
+       <a href="" >Musik</a>
+     </nav>
+     <hr />
+   </header>
+     <h2> <font color="#EE22CC" > <em>Hallo!</em> Viel Spaß auf dieser Seite! </font> </h2>
+     <p>
+       Ich stelle hier ein paar meiner <strong>Hobbys</strong> vor, welche <strong>Bücher</strong> ich zuletzt gelesen habe
+        und welche <strong>Musik</strong> ich gerne höre.
+     </p>
+     <br/>
+     <p>Ich hoffe diese Seite ...</p>
+     <ul>
+       <li>wird schön</li>
+       <li>sieht am Ende so aus, wie ich es mir vorstelle</li>
+       <li>und macht Spaß anzuschauen:) </li>
+     </ul>
+  <h3>Hier erst einmal ein schönes Katzenbild. </h2>
+   <img scr="https://th.bing.com/th/id/OIP.xPxGHoX-zVB2ly0ATegC9QHaE8?pid=ImgDet&rs=1" height="100" width="200"
+    alt="Katzenbild" align="center">
+    <br>
+  <h3>Und für alle die keine Katzen mögen...</h3>
+  <img scr=""  height="80" width="160" alt="Hundebild" align="center">
+  <hr />
+  <footer>
+  <a href="https://www.instagram.com/katzen_videos/" target="_blank">Mehr Katzencontent</a>
+  <hr />
+</body>
+</html>
